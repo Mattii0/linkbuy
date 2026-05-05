@@ -30,8 +30,8 @@ export default function Header() {
 
   const navLinks = [
     { href: "/", label: "Início" },
-    { href: "/categorias", label: "Categorias" },
-    { href: "/lojas", label: "Lojas" },
+    { href: "/favoritos", label: "Favoritos" },
+    { href: "/carrinho", label: "Carrinho" },
   ];
 
   return (
